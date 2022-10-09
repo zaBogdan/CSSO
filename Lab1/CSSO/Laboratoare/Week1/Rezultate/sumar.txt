@@ -1,0 +1,3 @@
+C:\Facultate\CSSO\Laboratoare\Week1\Rezultate\HKCC.txt 22
+C:\Facultate\CSSO\Laboratoare\Week1\Rezultate\HKCU.txt 24
+C:\Facultate\CSSO\Laboratoare\Week1\Rezultate\HKLM.txt 23

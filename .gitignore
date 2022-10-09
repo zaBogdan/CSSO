@@ -1,0 +1,4 @@
+**.vs
+**/DEBUG/**
+!**/DEBUG/**.exe
+**.DS_STORE
