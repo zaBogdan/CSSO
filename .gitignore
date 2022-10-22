@@ -1,4 +1,6 @@
 **.vs
 **/DEBUG/**
 !**/DEBUG/**.exe
+**/RELEASE/**
 **.DS_STORE
+**.zip

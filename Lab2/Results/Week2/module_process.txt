@@ -1,0 +1,12 @@
+Module ID: 1 | Parent PID: 13844 | szModule: P1.exe | SzExePath: \\Mac\Home\Documents\Work\UAIC\CSSO\Lab2\x64\Debug\P1.exe
+Module ID: 1 | Parent PID: 13844 | szModule: ntdll.dll | SzExePath: C:\Windows\SYSTEM32\ntdll.dll
+Module ID: 1 | Parent PID: 13844 | szModule: KERNEL32.DLL | SzExePath: C:\Windows\System32\KERNEL32.DLL
+Module ID: 1 | Parent PID: 13844 | szModule: KERNELBASE.dll | SzExePath: C:\Windows\System32\KERNELBASE.dll
+Module ID: 1 | Parent PID: 13844 | szModule: ADVAPI32.dll | SzExePath: C:\Windows\System32\ADVAPI32.dll
+Module ID: 1 | Parent PID: 13844 | szModule: msvcrt.dll | SzExePath: C:\Windows\System32\msvcrt.dll
+Module ID: 1 | Parent PID: 13844 | szModule: sechost.dll | SzExePath: C:\Windows\System32\sechost.dll
+Module ID: 1 | Parent PID: 13844 | szModule: RPCRT4.dll | SzExePath: C:\Windows\System32\RPCRT4.dll
+Module ID: 1 | Parent PID: 13844 | szModule: MSVCP140D.dll | SzExePath: C:\Windows\SYSTEM32\MSVCP140D.dll
+Module ID: 1 | Parent PID: 13844 | szModule: VCRUNTIME140D.dll | SzExePath: C:\Windows\SYSTEM32\VCRUNTIME140D.dll
+Module ID: 1 | Parent PID: 13844 | szModule: VCRUNTIME140_1D.dll | SzExePath: C:\Windows\SYSTEM32\VCRUNTIME140_1D.dll
+Module ID: 1 | Parent PID: 13844 | szModule: ucrtbased.dll | SzExePath: C:\Windows\SYSTEM32\ucrtbased.dll
